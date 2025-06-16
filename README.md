@@ -3,7 +3,7 @@
 A modern, responsive web page designed to guide users toward healthier lifestyle choices through balanced food diets, workout routines, and daily healthy habits.
 
 ## 🌟 Live Demo
-👉 [Click here to visit the website](https://dsprasad123.github.io/healthy-diet-website/)
+👉 [Click here to visit the website](https://dsprasad123.github.io/back-to-roots/)
 
 ---
 
